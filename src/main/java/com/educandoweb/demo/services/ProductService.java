@@ -5,10 +5,7 @@ import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
-import com.educandoweb.demo.entities.Category;
 import com.educandoweb.demo.entities.Product;
-import com.educandoweb.demo.repositories.CategoryRepository;
 import com.educandoweb.demo.repositories.ProductRepository;
 
 @Service
